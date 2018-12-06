@@ -8,4 +8,4 @@ PLAY: https://saumilbapat.github.io/Word-Guess-Game-Command-Line/
 - You get 5 missed letters to guess the Word
 - The theme is Star Trek!
 
-![Screencap](https://github.com/saumilbapat/Word-Guess-Game-Command-Line/assets/images/WordGuess.png)
+![Screencap](https://github.com/SaumilBapat/Word-Guess-Game-Command-Line/blob/master/assets/images/WordGuess.png)
