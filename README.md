@@ -1,6 +1,4 @@
-***Hangman***
-
-PLAY: https://saumilbapat.github.io/Word-Guess-Game-Command-Line/
+***Word Guess Game - Command Line Version***
 
 > Tips
 
